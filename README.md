@@ -18,17 +18,17 @@ This repository contains the Arduino Nano-based sketch for the Mesmerize’24 Li
 
 ### Pin Connections
 
-| Component       | Pin Number |
+| Component        | Pin Number |
 |------------------|------------|
-| Left Sensor      | 6          |
-| Center Sensor    | 7          |
-| Right Sensor     | 8          |
-| Motor A Enable   | 9          |
-| Motor A Input 1  | 2          |
-| Motor A Input 2  | 3          |
-| Motor B Enable   | 10         |
-| Motor B Input 1  | 4          |
-| Motor B Input 2  | 5          |
+| Left Sensor      | A7         |
+| Center Sensor    | A4         |
+| Right Sensor     | A1         |
+| Motor A Enable   | 3          |
+| Motor A Input 1  | 4          |
+| Motor A Input 2  | 5          |
+| Motor B Enable   | 8          |
+| Motor B Input 1  | 9          |
+| Motor B Input 2  | 10         |
 
 ### Usage
 
