@@ -36,12 +36,6 @@ This repository contains the Arduino Nano-based sketch for the Mesmerize’24 Li
 2. Upload the Code: Load the sketch onto your Arduino Nano using the Arduino IDE.
 3. Test and Adjust: Place the robot on the line and observe its behavior. Modify motorSpeed or tweak the logic for better performance.
 
-### Future Improvements
-
-- Implement PID control for smoother tracking.
-- Add adaptive speed for handling curves and intersections.
-- Enhance debugging through serial output.
-
 ### License
 
 This project is open-source and free for educational and competition use. Contributions and suggestions are welcome!
