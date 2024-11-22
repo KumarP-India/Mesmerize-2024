@@ -25,12 +25,12 @@
 #define INB1 4
 #define INB2 5
 
-int motorSpeed = 120; // motorSpeed of this robot
+int motorSpeed = 120; // PWM duty cycles to control speed of the robot
 
 void setup() {
   // put your setup code here, to run once:
 
-  Serial.begin(9600);
+  // Serial.begin(9600);
 
   pinMode(leftSensor, INPUT);
   pinMode(centerSensor, INPUT);
