@@ -26,9 +26,9 @@ This repository contains the Arduino Nano-based sketch for the Mesmerize’24 Li
 | Motor A Enable   | 3          |
 | Motor A Input 1  | 4          |
 | Motor A Input 2  | 5          |
-| Motor B Enable   | 8          |
+| Motor B Enable   | 10         |
 | Motor B Input 1  | 9          |
-| Motor B Input 2  | 10         |
+| Motor B Input 2  | 8          |
 
 ### Usage
 
