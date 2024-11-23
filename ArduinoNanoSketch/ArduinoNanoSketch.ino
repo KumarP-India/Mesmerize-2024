@@ -98,7 +98,7 @@ void loop() {
     carStop();
     return; // Exit loop
   } else if (leftValue == 1 && centerValue == 0 && rightValue == 1) {
-    if (preferRight){
+    if (preferRight) {
       leftValue = 0;
       centerValue = 0;
       rightValue = 1;
